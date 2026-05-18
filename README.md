@@ -51,9 +51,15 @@
 
 ## 📺 效果演示
 
-项目 `assets/` 目录中包含：
-- **`效果视频.mp4`** - 脚本运行效果视频演示
-- **`一件人工审查替换脚本.png`** - 如需在生产网络中使用，参考此图片中的脚本头部配置修改
+### 脚本运行效果
+
+<video controls width="100%" src="assets/效果视频.mp4">
+	当前浏览器不支持视频播放，请直接打开 [assets/效果视频.mp4](assets/效果视频.mp4)
+</video>
+
+### 网络配置参考
+
+<img src="assets/一件人工审查替换脚本.png" alt="OJ Batch Review Helper 网络配置替换脚本" width="100%">
 
 ## 🔐 网络使用说明
 
