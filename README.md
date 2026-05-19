@@ -53,13 +53,15 @@
 
 ### 脚本运行效果
 
-<video controls width="100%" src="assets/效果视频.mp4">
-	当前浏览器不支持视频播放，请直接打开 [assets/效果视频.mp4](assets/效果视频.mp4)
-</video>
+GitHub 的 README 预览通常不会稳定内嵌本地 MP4 自动播放，请点击下图或链接查看视频：
+
+[![点击查看效果视频](assets/network-config.png)](assets/demo.mp4)
+
+- 视频文件：[assets/demo.mp4](assets/demo.mp4)
 
 ### 网络配置参考
 
-<img src="assets/一件人工审查替换脚本.png" alt="OJ Batch Review Helper 网络配置替换脚本" width="100%">
+![OJ Batch Review Helper 网络配置替换脚本](assets/network-config.png)
 
 ## 🔐 网络使用说明
 
@@ -67,7 +69,7 @@
 
 ### 若需在其他网络环境使用
 
-请参考 `assets/一件人工审查替换脚本.png` 中的说明，修改脚本头部的 `@match` 规则：
+请参考 `assets/network-config.png` 中的说明，修改脚本头部的 `@match` 规则：
 
 ```javascript
 // ==UserScript==
