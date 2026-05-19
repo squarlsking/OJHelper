@@ -53,11 +53,7 @@
 
 ### 脚本运行效果
 
-GitHub 的 README 预览通常不会稳定内嵌本地 MP4 自动播放，请点击下图或链接查看视频：
-
-[![点击查看效果视频](assets/network-config.png)](assets/demo.mp4)
-
-- 视频文件：[assets/demo.mp4](assets/demo.mp4)
+[▶ 点击播放效果视频](assets/demo.mp4)
 
 ### 网络配置参考
 
